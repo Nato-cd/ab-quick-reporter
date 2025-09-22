@@ -79,7 +79,7 @@ Turn your summary into a beautiful visualization:
 python3 charts.py ab-summary.txt
 ```
 
-- This script will generate image files (e.g., `ab-summary.png`) with clear, informative charts using matplotlib.
+- This script will generate image files (e.g., `ab-results.png`) with clear, informative charts using matplotlib.
 
 ## 📄 License
 
