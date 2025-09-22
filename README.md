@@ -1,7 +1,7 @@
 # 🚀 AB Quick Reporter
 
 <div align="center" style="margin-bottom:24px;">
-  <img src="assets/preview.png" width="70%" alt="Preview of summarized AB text and chart" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.10); margin:24px 0;" />
+  <img src="assets/preview.png" width="100%" alt="Preview of summarized AB text and chart" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.10); margin:24px 0;" />
 </div>
 
 <br>
