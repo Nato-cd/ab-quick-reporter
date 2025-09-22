@@ -1,7 +1,7 @@
 # 🚀 AB Quick Reporter
 
 <div align="center" style="margin-bottom:24px;">
-  <img src="assets/preview.png" width="100%" alt="Preview of summarized AB text and chart" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.10); margin:24px 0;" />
+  <img src="assets/preview.png" width="70%" alt="Preview of summarized AB text and chart" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.10); margin:24px 0;" />
 </div>
 
 <br>
@@ -22,6 +22,7 @@
 - **Easy to Use:** Simple commands and scripts—no complicated setup.
 - **Automated Summaries:** Parse and summarize Apache Bench output in seconds.
 - **Instant Visualizations & Export:** Generate beautiful, shareable charts (requests/sec, latency, and more) for reports and presentations.
+- **Simplified Charts:** Easy-to-understand visualizations make performance data clear for everyone.
 
 > **🧠 All scripts in this project were generated with the help of AI.**
 
