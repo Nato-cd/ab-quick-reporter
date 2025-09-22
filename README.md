@@ -1,16 +1,21 @@
 # 🚀 AB Quick Reporter
 
-**AB Quick Reporter**  
-_The simplest way to turn Apache Bench results into instant insights and beautiful charts._
+<div align="center" style="margin-bottom:24px;">
+  <img src="assets/preview.png" width="90%" alt="Preview of summarized AB text and chart" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.10); margin:24px 0;" />
+</div>
+
+<br>
+
+<div align="center">
+  <em>The simplest way to turn Apache Bench results into instant insights and beautiful charts.</em>
+</div>
+
+<br>
 
 <div align="center" style="margin-bottom:16px;">
   <!-- Using a simple blue badge for MIT License -->
   <img src="https://img.shields.io/badge/License-MIT-1976d2?style=for-the-badge&logo=github&logoColor=fff" alt="MIT License" />
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cyberllloner/ab-quick-reporter/main/assets/demo-chart.png" width="60%" alt="Demo Chart" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.10); margin:24px 0;" />
-</p>
 
 ## ✨ Features
 
