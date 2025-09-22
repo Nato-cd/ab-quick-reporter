@@ -1,22 +1,27 @@
 # 🚀 AB Quick Reporter
+  
+_The simplest way to turn Apache Bench results into instant insights and beautiful charts._
 
-**AB Quick Reporter** is your one-stop toolkit for transforming raw [Apache Bench (ab)](https://httpd.apache.org/docs/2.4/programs/ab.html) HTTP benchmarking results into clean summaries and beautiful charts—perfect for performance analysis and sharing.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/License-MIT-1abc9c?style=for-the-badge&logo=github" alt="MIT License">
+<div align="center" style="margin-bottom:16px;">
+  <!-- Using a simple blue badge for MIT License -->
+  <img src="https://img.shields.io/badge/License-MIT-1976d2?style=for-the-badge&logo=github&logoColor=fff" alt="MIT License" />
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cyberllloner/ab-quick-reporter/main/assets/demo-chart.png" width="60%" alt="Demo Chart" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.10); margin:24px 0;" />
+</p>
 
 ---
 
 ## ✨ Features
 
-- **Automated Summaries:** Parse and summarize Apache Bench results in seconds.
-- **Instant Visualizations:** Generate charts for requests/sec, latency, and more.
-- **Effortless Export:** Save charts as image files—ready for your reports or presentations.
+- **Easy to Use:** Simple commands and scripts—no complicated setup.
+- **Automated Summaries:** Parse and summarize Apache Bench output in seconds.
+- **Instant Visualizations & Export:** Generate beautiful, shareable charts (requests/sec, latency, and more) for reports and presentations.
 
 ---
 
-> **Note:** All scripts in this project were generated with the help of AI.
+> **🧠 All scripts in this project were generated with the help of AI.**
 
 ---
 
@@ -24,28 +29,30 @@
 
 ### 1. Install Requirements
 
-**Python 3.10+** and **matplotlib** are required.
+AB Quick Reporter requires **Python 3.10+** and **matplotlib**.
 
-#### Install matplotlib via apt:
+#### Install matplotlib with apt (system-wide):
 
 ```bash
 sudo apt update
 sudo apt install python3-matplotlib
 ```
 
-#### Or use pip (recommended with a virtual environment):
+<details>
+<summary><strong>Or use pip (recommended: inside a virtual environment)</strong></summary>
 
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install matplotlib
 ```
+</details>
 
 ---
 
 ### 2. Run Apache Bench
 
-Test your server and save the results:
+Benchmark your server and save the output:
 
 ```bash
 ab -n 100 -c 5 https://example.com/ > ab-result.txt
@@ -55,7 +62,7 @@ ab -n 100 -c 5 https://example.com/ > ab-result.txt
 
 ### 3. Summarize Results
 
-First, make the shell script executable:
+Make the shell script executable:
 
 ```bash
 sudo chmod +x summary.sh
@@ -71,7 +78,7 @@ Then run it to extract the summary:
 
 ### 4. Generate Charts
 
-Create beautiful charts from the summary:
+Turn your summary into a beautiful visualization:
 
 ```bash
 python3 charts.py ab-summary.txt
@@ -87,8 +94,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<div align="center">
-
-:star: **If you found this useful, please star the repo!**
-
-</div>
+<p align="center">
+  <b>:star: Found this useful? Star the repo to show your support!</b>
+</p>
