@@ -1,5 +1,6 @@
 # 🚀 AB Quick Reporter
-  
+
+**AB Quick Reporter**  
 _The simplest way to turn Apache Bench results into instant insights and beautiful charts._
 
 <div align="center" style="margin-bottom:16px;">
@@ -11,19 +12,13 @@ _The simplest way to turn Apache Bench results into instant insights and beautif
   <img src="https://raw.githubusercontent.com/cyberllloner/ab-quick-reporter/main/assets/demo-chart.png" width="60%" alt="Demo Chart" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.10); margin:24px 0;" />
 </p>
 
----
-
 ## ✨ Features
 
 - **Easy to Use:** Simple commands and scripts—no complicated setup.
 - **Automated Summaries:** Parse and summarize Apache Bench output in seconds.
 - **Instant Visualizations & Export:** Generate beautiful, shareable charts (requests/sec, latency, and more) for reports and presentations.
 
----
-
 > **🧠 All scripts in this project were generated with the help of AI.**
-
----
 
 ## ⚡️ Quick Start
 
@@ -48,8 +43,6 @@ pip install matplotlib
 ```
 </details>
 
----
-
 ### 2. Run Apache Bench
 
 Benchmark your server and save the output:
@@ -57,8 +50,6 @@ Benchmark your server and save the output:
 ```bash
 ab -n 100 -c 5 https://example.com/ > ab-result.txt
 ```
-
----
 
 ### 3. Summarize Results
 
@@ -74,8 +65,6 @@ Then run it to extract the summary:
 ./summary.sh ab-result.txt > ab-summary.txt
 ```
 
----
-
 ### 4. Generate Charts
 
 Turn your summary into a beautiful visualization:
@@ -86,13 +75,9 @@ python3 charts.py ab-summary.txt
 
 - This script will generate image files (e.g., `ab-summary.png`) with clear, informative charts using matplotlib.
 
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
 
 <p align="center">
   <b>:star: Found this useful? Star the repo to show your support!</b>
